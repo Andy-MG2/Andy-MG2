@@ -9,13 +9,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and learn
 - 🤝 Open to collaborating on open source and innovative ideas.
 - ✨ I believe in continuous learning and sharing knowledge with the community.
 
-## 🛠️ Skills & Tools
-
-- Programming: Python, JavaScript, TypeScript, Java, C++
-- Web: HTML, CSS, React, Node.js, Express
-- Tools: Git, GitHub, Docker, VS Code
-- Other: Linux, APIs, Databases
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -24,14 +17,12 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and learn
 
 ## 📫 How to Reach Me
 
-- GitHub: [Andy-MG2](https://github.com/Andy-MG2)
-- (Add your preferred contact method here)
+- Email: garciaa262005@gmail.com
+- LinkedIn: https://www.linkedin.com/in/andymg2/
 
 ## 📝 Latest Projects
 
 - Check out my pinned repositories below for some featured work!
 - I regularly update my repositories, so feel free to explore and contribute.
 
----
 
-Thanks for visiting my profile! Have a great day 🚀
